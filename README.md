@@ -1,5 +1,7 @@
 # BankSim
 
+![Landing Page Screenshot](./landing%20page%20screenshot.png)
+
 BankSim is a lightweight web application that simulates a personal banking dashboard. It allows users to simulate creating an account, logging in, and performing basic banking operations. This project serves as a practical example of front-end development using modern CSS frameworks and vanilla JavaScript.
 
 ## Technologies Used
